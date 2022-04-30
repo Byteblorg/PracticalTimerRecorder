@@ -4,7 +4,6 @@
 // echo 'test1@gmail.com';
 // echo 'test2@gmail.com';
 // echo 'test3@gmail.com';
-// echo 'Password123*';
 //echo base64_encode('Password123*');
 
 include ('conn.php');
